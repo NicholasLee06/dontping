@@ -1,12 +1,9 @@
-# dontping
+# Discord No Ping
 
 HI There! Thanks for giving interested in this bot.
 
-What bot is this?
-This is the bot that if one of the users ping you in discord, it will automatically delete it and send an embed message to the user.
+##What does this bot do?
+It will automatically delete the mention, and send an embed message to the user to tell him not to ping.
 
 You are allowed to modify the code, stay safe.
 
-#discord
-#discordpy
-#dontpingme
